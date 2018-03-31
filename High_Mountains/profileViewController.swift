@@ -19,7 +19,7 @@ class profileViewController: UIViewController {
       //  self.profileImg.layer.borderWidth = 3.0
        
         
-        
+        //dddds
         
     }
 
